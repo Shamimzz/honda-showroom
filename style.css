@@ -1,0 +1,29 @@
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300;400;500;700&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.spacing{
+    letter-spacing: 3px;
+}
+
+.home-btn{
+    background-color: #E76F51;
+    color: #fff;
+}
+
+.home-bg{
+    background-color: #264653;
+    color: #fff;
+}
+.grey-bike{
+    filter: grayscale(1);
+}
+.clind-color{
+    color: #E76F51;
+}
